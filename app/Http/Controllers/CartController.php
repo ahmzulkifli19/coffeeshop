@@ -13,7 +13,6 @@ class CartController extends Controller
         return view('layouts.cart', compact('cartItems'));
     }
 
-
     public function addToCart(Request $request)
     {
         \Cart::add([
