@@ -7,17 +7,7 @@
 						<p>Kami adalah perusahaan kopi yang mendedikasikan seluruh gairah, kecintaan, dan antusiasme kami kepada dunia kopi yang menakjubkan. Kami adalah perusahaan lokal dan sebagian besar bahan baku yang kami gunakan adalah lokal. Ya, dan kami mengatakan hal tersebut dengan bangga.</p>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="footer-box get-in-touch">
-						<h2 class="widget-title">Location</h2>
-						<ul>
-							<li>Jl. Cisadane No.4 Jakarta Pusat</li>
-							<li>admin@devascoffee.com</li>
-							<li>+62 877 6813 7009</li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-2 col-md-6">
 					<div class="footer-box pages">
 						<h2 class="widget-title">Pages</h2>
 						<ul>
@@ -29,13 +19,24 @@
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
+					<div class="footer-box get-in-touch">
+						<h2 class="widget-title">Location</h2>
+						<ul>
+							<li>Jl. Cisadane No.4 Jakarta Pusat</li>
+							<li>admin@devascoffee.com</li>
+							<li>+62 877 6813 7009</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
 					<div class="footer-box subscribe">
-						<h2 class="widget-title">Subscribe</h2>
+					<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=300&amp;height=300&amp;hl=en&amp;q=devas corner&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://www.kokagames.com/fnf-friday-night-funkin-mods/">FNF</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:300px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:300px;}.gmap_iframe {height:300px!important;}</style></div>
+						<!-- <h2 class="widget-title">Subscribe</h2>
 						<p>Subscribe to our mailing list to get the latest updates.</p>
 						<form action="index.html">
 							<input type="email" placeholder="Email">
 							<button type="submit"><i class="fas fa-paper-plane"></i></button>
-						</form>
+						</form> -->
 					</div>
 				</div>
 			</div>
